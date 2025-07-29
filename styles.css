@@ -6,10 +6,12 @@
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap-reverse;
-  /* align-items: stretch; */
   align-items: center;
+  /* align-items: stretch; */
+
+  max-width: 1400px;
   min-height: 100vh;
-  /* padding: 4rem; */
+  margin: 0 auto;
 }
 
 .hero-left {
@@ -30,8 +32,8 @@
 }
 
 .avatar {
-  width: 250px;
-  height: auto;
-}
-.btn {
+  width: 390px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 50%; 
 }
