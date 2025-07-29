@@ -1,0 +1,37 @@
+.outline * {
+  /* outline: 1px solid black; */
+}
+
+.hero {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap-reverse;
+  /* align-items: stretch; */
+  align-items: center;
+  min-height: 100vh;
+  /* padding: 4rem; */
+}
+
+.hero-left {
+  text-align: center;
+
+  h1 {
+    font-size: 3rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+.hero-right {
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.avatar {
+  width: 250px;
+  height: auto;
+}
+.btn {
+}
