@@ -1,5 +1,4 @@
 <script lang="ts">
-	// You can add any dynamic behavior here later
 </script>
 
 <section class="m-auto flex min-h-screen max-w-7xl flex-col items-center justify-center gap-10 md:flex-row md:justify-evenly md:gap-0">
