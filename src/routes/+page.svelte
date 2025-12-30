@@ -4,7 +4,7 @@
 
 <section class="m-auto flex min-h-screen max-w-7xl flex-col items-center justify-center gap-10 md:flex-row md:justify-evenly md:gap-0">
   <!-- Profile Image -->
-  <img src="/me.png" alt="William Hou" class="h-64 w-64 rounded-full object-cover shadow-lg md:order-2 md:h-96 md:w-96" />
+  <img src="/me.png" alt="William Hou" class="h-64 w-64 rounded-full border-6 border-gray-300 object-cover md:order-2 md:h-96 md:w-96" />
 
   <!-- Hero Content -->
   <div class="text-center md:order-1 md:text-left">
