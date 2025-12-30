@@ -1,0 +1,17 @@
+# Site Configuration
+# Update these values for each new project
+
+site:
+  title: "William Hou - Portfolio"
+  description: "William Hou's personal website"
+  author: "williamhCode"
+  url: "https://williamhcode.github.io"
+  keywords:
+    - svelte
+    - sveltekit
+    - web app
+
+# Social Media / Open Graph
+social:
+  ogImage: "/og-image.jpg"
+  twitterHandle: "@yourhandle"
