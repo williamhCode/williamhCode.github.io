@@ -54,9 +54,4 @@ done
 
 echo ""
 echo "Done! Optimized images are in $OUTPUT_DIR"
-echo ""
-echo "Original total size:"
-du -sh "$INPUT_DIR"
-echo "Optimized total size (WebP):"
-du -sh "$OUTPUT_DIR"/*.webp 2>/dev/null | awk '{sum+=$1} END {print sum "M"}'
 
