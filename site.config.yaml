@@ -3,15 +3,12 @@
 
 site:
   title: "William Hou - Portfolio"
-  description: "William Hou's personal website"
+  description: "William Hou's Portfolio"
   author: "williamhCode"
   url: "https://williamhcode.github.io"
   keywords:
-    - svelte
-    - sveltekit
-    - web app
+    - Portfolio
 
 # Social Media / Open Graph
 social:
-  ogImage: "/og-image.jpg"
-  twitterHandle: "@yourhandle"
+  ogImage: "/assets/me.webp"

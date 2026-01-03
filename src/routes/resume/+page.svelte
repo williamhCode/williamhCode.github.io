@@ -1,7 +1,3 @@
-<svelte:head>
-  <title>William Hou - Resume</title>
-</svelte:head>
-
 <script lang="ts">
   import './resume.css';
 
@@ -9,6 +5,10 @@
     window.print();
   }
 </script>
+
+<svelte:head>
+  <title>William Hou - Resume</title>
+</svelte:head>
 
 <!-- Navigation -->
 <div class="nav">

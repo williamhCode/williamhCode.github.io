@@ -10,12 +10,8 @@ export interface SiteConfig {
 		url: string;
 		keywords: string[];
 	};
-	api: {
-		url: string;
-	};
 	social: {
 		ogImage: string;
-		twitterHandle: string;
 	};
 	favicon: string;
 }
