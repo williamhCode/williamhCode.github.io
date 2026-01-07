@@ -105,6 +105,7 @@
                   <li>• Developed an efficient and visually pleasing GUI for Neovim with C++23, WebGPU, and SDL3</li>
                   <li>• Designed a feature-full font renderer with custom box drawing and gamma corrected blending</li>
                   <li>• Implemented msgpack RPC client with Boost Asio for Neovim communication</li>
+                  <li>• Seamlessly used as a Neovim driver for alpha testers over an extended period</li>
                 </ul>
               </div>
 
