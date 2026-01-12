@@ -1,0 +1,97 @@
+header:
+  name: William Hou
+  title: Software Engineer
+  summary: >
+    Full-stack developer and graphics programming enthusiast with expertise in
+    building modern web applications and high-performance graphics engines.
+    Proficient in multiple programming languages and frameworks.
+
+contact:
+  - icon: email
+    text: williamh.coding@gmail.com
+  - icon: location
+    text: West Lafayette, IN
+  - icon: phone
+    text: 765-337-9144
+  - icon: link
+    text: williamhcode.github.io
+    url: https://williamhcode.github.io/
+
+education:
+  university: Purdue University
+  degree: B.S. in Computer Science
+  location: West Lafayette, IN
+  graduation: Expected May 2026
+  gpa: 'GPA: 3.5/4.0'
+
+skills:
+  - category: Programming
+    items: Python, C++, HTML, CSS, JavaScript, TypeScript, C#, Java, Lua, C, Shell, LaTeX
+  - category: Dev Tools
+    items: Git, Make, CMake, Vim (Neovim), VSCode, XCode
+  - category: Frameworks/Libraries
+    items: Vue, Svelte, FastAPI, WebGPU, OpenGL, NumPy, PyQt, Tensorflow/PyTorch
+  - category: Other Software
+    items: Unity
+  - category: Languages
+    items: English, Mandarin-Chinese
+
+experience:
+  - title: Frontend Developer
+    date: July 2025 - Present
+    company: ÜJIN Media / Remote
+    url: https://www.instagram.com/ujin_media
+    bullets:
+      - Designed and launched custom, responsive websites using HTML, CSS, JavaScript, and modern frameworks.
+      - Collaborated cross-functionally to integrate client branding and business needs into cohesive digital experiences.
+      - Optimized website engagement by implementing Search Engine Optimization (SEO) strategies.
+      - Managed full deployment via GitLab, including custom domain configuration and DNS redirects.
+
+  - title: Software Engineer
+    date: May 2024 - July 2024
+    company: E&B Technology Inc. / Taipei, Taiwan
+    url: https://www.ebti.com.tw/index.html
+    bullets:
+      - Developed full-stack web applications using Vue.js, C# ASP.NET with EF Core, and Microsoft SQL
+      - Tested airport monitoring software by generating JSON files using Python
+      - Utilized Three.js and Blender, improving lighting effects and applying texture mappings
+
+  - title: Teaching Assistant
+    date: Sep. 2021 - June 2022
+    company: Taipei American School / Taipei, Taiwan
+    bullets:
+      - Taught artificial intelligence concepts including pathfinding, genetic algorithm, and neural networks
+      - Supported students with debugging/writing programs in Java and Python
+
+projects:
+  - title: Neogurt - GUI for Neovim
+    date: Jan 2024 - Present
+    url: https://github.com/williamhCode/neogurt
+    displayUrl: github.com/williamhCode/neogurt
+    bullets:
+      - Developed an efficient and visually pleasing GUI for Neovim with C++23, WebGPU, and SDL3
+      - Designed a feature-full font renderer with custom box drawing and gamma corrected blending
+      - Implemented msgpack RPC client with Boost Asio for Neovim communication
+      - Seamlessly used as a Neovim driver for alpha testers over an extended period
+
+  - title: Receipt Helper - Expense Splitting App
+    date: Aug 2024 - Present
+    url: https://github.com/williamhCode/receipt-helper
+    displayUrl: github.com/williamhCode/receipt-helper
+    bullets:
+      - Built full-stack app with FastAPI, SvelteKit, PostgreSQL, and Alembic migrations
+      - Implemented responsive frontend with TailwindCSS and real-time synchronization
+      - Deployed with CI/CD pipeline using Railway with staging and production environments
+
+additionalProjects:
+  - title: Minecraft Clone in WebGPU
+    url: https://github.com/williamhCode/minecraft_webgpu
+    description: Voxel engine with advanced rendering techniques
+
+  - title: SIGGD Game Jam 2022
+    url: https://github.com/williamhCode/Game-Jam-2022
+    description: 48-hour game jam project with custom Python 2D graphics library
+
+  - title: Dotfiles
+    url: https://github.com/williamhCode/.dotfiles
+    description: Configuration files for various programs on macOS
